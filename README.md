@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Abhishek, a full-stack freelance developer 👨‍💻 🚀</div>  
+### <div align="center">Hi! I'm Abhishek, a full-stack developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [WoundMedic.ai](https://github.com/DauntingDruid/woundmed)  
@@ -63,4 +63,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-----
