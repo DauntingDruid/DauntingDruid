@@ -1,7 +1,7 @@
 ### <div align="center">Hi! I'm Abhishek, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [WoundMedic.ai](https://github.com/DauntingDruid/woundmed)  
+- 🔭 I’m currently working on [DocDash](https://github.com/DauntingDruid/woundmed](https://github.com/DauntingDruid/DocDash)  
   
 
 - 🌱 I’m currently learning Next.js and Three.js  
