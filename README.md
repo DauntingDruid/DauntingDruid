@@ -1,7 +1,7 @@
 ### <div align="center">Hi! I'm Abhishek, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [DocDash](https://myoctocat.com/assets/images/base-octocat.svg)
+- 🔭 I’m currently working on [DocDash](https://github.com/DauntingDruid/DocDash) and [AtmosphereX](https://github.com/DauntingDruid/atmospherex) 
   
 
 - 🌱 I’m currently learning Next.js and Three.js  
