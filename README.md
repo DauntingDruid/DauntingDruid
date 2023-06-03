@@ -1,3 +1,7 @@
+
+## 🚀 About Me
+I'm a full stack developer...
+
 ### <div align="center">Hi! I'm Abhishek, a full-stack developer 👨‍💻 🚀</div>  
   
 
@@ -11,6 +15,32 @@
   
 
 <br/>  
+
+## Recent projects along with their links:
+
+#### [Project 1: Sky Hopper - (May 2023)](https://github.com/DauntingDruid/sky-hopper)
+   - A React application for searching, booking flights and a dashboard for Admins.
+   - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
+
+#### [Project 2: My Portfolio (April 2023)](https://github.com/DauntingDruid/portfolio-next)
+   - Built with Next.js, Framer Motion and Three.js.
+   - Deployed Link: [abhishek-tomar](https://abhishek-tomar.vercel.app/)
+
+#### [Project 3: AtmosphereX (June 2023 - currently)](https://github.com/DauntingDruid/atmospherex)
+   - React Native app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
+   - Playstore Link: (InProgress)
+
+#### [Project 4: DocDash (Upcoming)](https://github.com/DauntingDruid/DocDash)
+   - For doctors to view patient stats, history and keep track of appointments.
+   - For Patients to book appointments, upload documents for medical history.
+   - Link: (InProgress)
+
+### Old Frontend Projects:
+
+- [TVflix](https://thetvflix.netlify.app/) -> React app to display and view videos just like on youtube
+- [Quikz Newz Feed](https://qikz-newz-feed.netlify.app/) -> News feed using RSS API
+- [TripChale](https://trip-chale.netlify.app/) -> View travel locations and popular activites + booking
+
 
 
 ## My Skill Set  
