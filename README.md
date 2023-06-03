@@ -35,7 +35,7 @@ I'm a full stack developer...
    - For Patients to book appointments, upload documents for medical history.
    - Link: (InProgress)
 
-### Old Frontend Projects:
+### Other Frontend Projects:
 
 - [TVflix](https://thetvflix.netlify.app/) -> React app to display and view videos just like on youtube
 - [Quikz Newz Feed](https://qikz-newz-feed.netlify.app/) -> News feed using RSS API
