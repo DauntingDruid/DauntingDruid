@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a full stack developer...
+
 
 ### <div align="center">Hi! I'm Abhishek, a full-stack developer 👨‍💻 🚀</div>  
   
