@@ -27,8 +27,8 @@
    - Deployed Link: [abhishek-tomar](https://abhishek-tomar.vercel.app/)
 
 #### [Project 3: AtmosphereX (June 2023 - currently)](https://github.com/DauntingDruid/atmospherex)
-   - React Native app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
-   - Playstore Link: (InProgress)
+   - React app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
+   - Link: (InProgress)
 
 #### [Project 4: DocDash (Upcoming)](https://github.com/DauntingDruid/DocDash)
    - For doctors to view patient stats, history and keep track of appointments.
