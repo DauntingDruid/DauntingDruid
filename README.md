@@ -24,7 +24,7 @@
 
 #### [Project 2: My Portfolio (April 2023)](https://github.com/DauntingDruid/portfolio-next)
    - Built with Next.js, Framer Motion and Three.js.
-   - Deployed Link: [abhishek-tomar](https://abhishek-tomar.vercel.app/)
+   - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
 #### [Project 3: AtmosphereX (June 2023 - currently)](https://github.com/DauntingDruid/atmospherex)
    - React app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
