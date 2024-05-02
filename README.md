@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [DocDash](https://github.com/DauntingDruid/DocDash) and [AtmosphereX](https://github.com/DauntingDruid/atmospherex) 
   
 
-- 🌱 I’m currently learning Next.js and Three.js  
+- 🌱 I’m currently learning Next.js, Three.js & C#.  
   
 
 - ⚡ Worked on https://icd.who.int/icdapi api before? Lets to chat about it!   
