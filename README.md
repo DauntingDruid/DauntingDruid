@@ -26,7 +26,7 @@
    - Built with Next.js, Framer Motion and Three.js.
    - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
-#### [Project 3: AtmosphereX (June 2023 - currently)](https://github.com/DauntingDruid/atmospherex)
+#### [Project 3: AtmosphereX (Upcoming)](https://github.com/DauntingDruid/atmospherex)
    - React app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
    - Link: (InProgress)
 
