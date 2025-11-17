@@ -27,7 +27,7 @@
    - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
 #### [Project 3: Sky Hopper ](https://github.com/DauntingDruid/sky-hopper)
-   - A React application for searching, booking flights and a dashboard for Admins.
+   - Frontend App for searching, booking flights and a dashboard for Admins.
    - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
 
 #### [Project 4: AtmosphereX (Upcoming)](https://github.com/DauntingDruid/atmospherex)
