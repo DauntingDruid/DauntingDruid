@@ -8,17 +8,17 @@
 - 🔭 I’m currently working on [DocDash](https://github.com/DauntingDruid/DocDash) and [AtmosphereX](https://github.com/DauntingDruid/atmospherex) 
   
 
-- 🌱 I’m currently learning Next.js, Three.js & C#.  
+- 🌱 I’m currently learning Design Systems. 
   
 
-- ⚡ Worked on https://icd.who.int/icdapi api before? Lets to chat about it!   
+- ⚡ Worked on medical APIs; [FHIR](https://hl7.org/fhir/http.html) before? Lets to chat about it!
   
 
 <br/>  
 
 ## Recent projects along with their links:
 
-#### [Project 1: HireCipher - (Nov 2023)](https://github.com/DauntingDruid/HireCipher)
+#### [Project 1: HireCipher - (https://github.com/DauntingDruid/HireCipher)
    - An application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). 
    - Quick Run Guide in the repo (Clone -> add OpenAI KEY -> And Run!)
 
@@ -26,7 +26,7 @@
    - Built with Next.js, Framer Motion and Three.js.
    - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
-#### [Project 3: Sky Hopper - (May 2023)](https://github.com/DauntingDruid/sky-hopper)
+#### [Project 3: Sky Hopper ](https://github.com/DauntingDruid/sky-hopper)
    - A React application for searching, booking flights and a dashboard for Admins.
    - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
 
