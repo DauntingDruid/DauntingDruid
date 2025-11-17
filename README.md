@@ -18,7 +18,7 @@
 
 ## Recent projects along with their links:
 
-#### [Project 1: HireCipher - (https://github.com/DauntingDruid/HireCipher)
+#### [Project 1: HireCipher](https://github.com/DauntingDruid/HireCipher)
    - An application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). 
    - Quick Run Guide in the repo (Clone -> add OpenAI KEY -> And Run!)
 
