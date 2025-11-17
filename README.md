@@ -18,19 +18,23 @@
 
 ## Recent projects along with their links:
 
-#### [Project 1: Sky Hopper - (May 2023)](https://github.com/DauntingDruid/sky-hopper)
-   - A React application for searching, booking flights and a dashboard for Admins.
-   - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
+#### [Project 1: HireCipher - (Nov 2023)](https://github.com/DauntingDruid/HireCipher)
+   - An application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). 
+   - Quick Run Guide in the repo (Clone -> add OpenAI KEY -> And Run!)
 
-#### [Project 2: My Portfolio (April 2023)](https://github.com/DauntingDruid/portfolio-next)
+#### [Project 2: About Me / 3D Space Human ](https://github.com/DauntingDruid/portfolio-next)
    - Built with Next.js, Framer Motion and Three.js.
    - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
-#### [Project 3: AtmosphereX (Upcoming)](https://github.com/DauntingDruid/atmospherex)
+#### [Project 3: Sky Hopper - (May 2023)](https://github.com/DauntingDruid/sky-hopper)
+   - A React application for searching, booking flights and a dashboard for Admins.
+   - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
+
+#### [Project 4: AtmosphereX (Upcoming)](https://github.com/DauntingDruid/atmospherex)
    - React app to view different weather types and display stats using weatherapi, Each weather background was generated using [MidJourney AI](https://www.midjourney.com/) 
    - Link: (InProgress)
 
-#### [Project 4: DocDash (Upcoming)](https://github.com/DauntingDruid/DocDash)
+#### [Project 5: DocDash (Upcoming)](https://github.com/DauntingDruid/DocDash)
    - For doctors to view patient stats, history and keep track of appointments.
    - For Patients to book appointments, upload documents for medical history.
    - Link: (InProgress)
