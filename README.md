@@ -18,16 +18,16 @@
 
 ## Recent projects along with their links:
 
-#### [Project 1: HireCipher](https://github.com/DauntingDruid/HireCipher)
-   - An application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). 
-   - Quick Run Guide in the repo (Clone -> add OpenAI KEY -> And Run!)
+#### 🌟 [Project 1: HireCipher](https://github.com/DauntingDruid/HireCipher)
+   - HireCipher is a full-stack AI platform that decodes how ATS systems evaluate resumes. It analyzes resumes against job descriptions and provides structured, actionable feedback to improve shortlisting chances.
+   - Quick Run Guide in the repo (Clone -> add OpenAI/Gemini KEY -> And Run!)
 
-#### [Project 2: About Me / 3D Space Human ](https://github.com/DauntingDruid/portfolio-next)
-   - Built with Next.js, Framer Motion and Three.js.
+#### 🌟 [Project 2: About Me / 3D Space Human ](https://github.com/DauntingDruid/portfolio-next)
+   - A 3d Personal About me website, Built with Next.js, Framer Motion and Three.js.
    - Deployed Link: [abhishek-tomar](https://abhishektomar.in/)
 
 #### [Project 3: Sky Hopper ](https://github.com/DauntingDruid/sky-hopper)
-   - Frontend App for searching, booking flights and a dashboard for Admins.
+   - Frontend Concept for searching, booking flights and a dashboard for Admins.
    - Deployed Link: [sky-hopper](https://sky-hopper.vercel.app/) 
 
 #### [Project 4: AtmosphereX (Upcoming)](https://github.com/DauntingDruid/atmospherex)
